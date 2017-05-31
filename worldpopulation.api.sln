@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "world.data", "..\worldpopulation\world.data\world.data.csproj", "{DCF8D752-101D-4086-8926-709AA9C06E07}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "worldpopulationapi", "worldpopulationapi\worldpopulationapi.csproj", "{263A850F-A93F-4FA1-B79E-22A17ACAF00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "world.data", "world.data\world.data.csproj", "{DCF8D752-101D-4086-8926-709AA9C06E07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCF8D752-101D-4086-8926-709AA9C06E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCF8D752-101D-4086-8926-709AA9C06E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCF8D752-101D-4086-8926-709AA9C06E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCF8D752-101D-4086-8926-709AA9C06E07}.Release|Any CPU.Build.0 = Release|Any CPU
 		{263A850F-A93F-4FA1-B79E-22A17ACAF00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{263A850F-A93F-4FA1-B79E-22A17ACAF00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{263A850F-A93F-4FA1-B79E-22A17ACAF00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{263A850F-A93F-4FA1-B79E-22A17ACAF00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF8D752-101D-4086-8926-709AA9C06E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF8D752-101D-4086-8926-709AA9C06E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF8D752-101D-4086-8926-709AA9C06E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF8D752-101D-4086-8926-709AA9C06E07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

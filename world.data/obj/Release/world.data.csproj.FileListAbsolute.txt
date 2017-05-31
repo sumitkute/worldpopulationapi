@@ -1,0 +1,4 @@
+C:\Users\sukute\Documents\Visual Studio 2015\Projects\worldpopulation\world.data\bin\Release\world.data.dll
+C:\Users\sukute\Documents\Visual Studio 2015\Projects\worldpopulation\world.data\bin\Release\world.data.pdb
+C:\Users\sukute\Documents\Visual Studio 2015\Projects\worldpopulation\world.data\obj\Release\world.data.dll
+C:\Users\sukute\Documents\Visual Studio 2015\Projects\worldpopulation\world.data\obj\Release\world.data.pdb

@@ -81,3 +81,5 @@ C:\Sumit\AppSerices\worldpopulationapi\worldpopulationapi\bin\Microsoft.AI.Windo
 C:\Sumit\AppSerices\worldpopulationapi\worldpopulationapi\bin\Microsoft.AI.Web.xml
 C:\Sumit\AppSerices\worldpopulationapi\worldpopulationapi\obj\Debug\worldpopulationapi.dll
 C:\Sumit\AppSerices\worldpopulationapi\worldpopulationapi\obj\Debug\worldpopulationapi.pdb
+C:\Sumit\AppSerices\worldpopulationapi\worldpopulationapi\bin\Swashbuckle.Core.dll
+C:\Sumit\AppSerices\worldpopulationapi\worldpopulationapi\bin\WebActivatorEx.dll
