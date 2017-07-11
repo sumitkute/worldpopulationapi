@@ -7,3 +7,8 @@ C:\Sumit\AppSerices\worldpopulation\world.data\bin\Debug\world.data.dll
 C:\Sumit\AppSerices\worldpopulation\world.data\bin\Debug\world.data.pdb
 C:\Sumit\AppSerices\worldpopulation\world.data\obj\Debug\world.data.dll
 C:\Sumit\AppSerices\worldpopulation\world.data\obj\Debug\world.data.pdb
+C:\Sumit\AppSerices\worldpopulationapi\world.data\bin\Debug\world.data.dll
+C:\Sumit\AppSerices\worldpopulationapi\world.data\bin\Debug\world.data.pdb
+C:\Sumit\AppSerices\worldpopulationapi\world.data\obj\Debug\world.data.csprojResolveAssemblyReference.cache
+C:\Sumit\AppSerices\worldpopulationapi\world.data\obj\Debug\world.data.dll
+C:\Sumit\AppSerices\worldpopulationapi\world.data\obj\Debug\world.data.pdb

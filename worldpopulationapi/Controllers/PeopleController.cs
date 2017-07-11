@@ -20,7 +20,10 @@ namespace WorldPopulationService.Controllers
         // GET: api/People
         public IQueryable<People> GetPeople()
         {
-            return db.People;
+            var p1 = new People() { Id = 1, AadhaarNo = "1212 1212 12121", Age = "22", Gender = "M", Name = "Sumit K" };
+            var p2 = new People() { Id = 1, AadhaarNo = "1212 1212 12121", Age = "22", Gender = "M", Name = "Sanjay Kumar" };
+            var peoples = new List<People>() { p1, p2 } ;
+            return peoples.AsQueryable();
         }
 
         // GET: api/People/5
